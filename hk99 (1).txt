@@ -1,0 +1,49 @@
+# John Smith  
+**New York, NY** • john.smith@example.com • (555) 123-4567 • [linkedin.com/in/johnsmith](http://linkedin.com/in/johnsmith) • [www.johnsmithportfolio.com](http://www.johnsmithportfolio.com)
+
+## Education  
+**[Institution Name], Bachelor of Science in Computer Science**  
+[City, State] — *Graduation Month Year*  
+- Relevant Coursework: Web Design, Advanced CSS, JavaScript 
+
+## Skills
+- **Languages**: HTML, CSS, JavaScript
+- **Tools and Frameworks**: Firebase, Chart.js, Axios, Lottie (bodymovin)
+- **Specialties**: Web Development, Front-end Development, Stock Trading Platforms
+
+## Work Experience
+**Front-End Developer, [Company Name]**
+[City, State] — *[Start Date] – [End Date]*
+- Developed responsive web pages using modern CSS techniques such as Flexbox and Grid
+- Implemented animations for enhanced user experience using CSS transitions and JavaScript
+- Improved navigation and usability of a stock trading platform
+
+**Project Manager, [Company Name]**
+[City, State] — *[Start Date] – [End Date]*
+- Managed a team to develop a client-side architecture for a stock trading application
+- Coordinated tasks and milestones for project lifecycle using agile methodologies
+- Liaised with stakeholders to deliver functionalities that increased user engagement
+
+## Leadership & Professional Development
+**Lead Developer, Web Innovation Group**
+[City, State] — *[Start Date] – Present*
+- Spearheaded the development of an interactive stock trading platform with real-time data
+- Achieved a 30% increase in platform user base through performance enhancements
+
+## Projects
+**WallstreetWizards** (*HTML, CSS, JavaScript, Firebase*) — [Link to Demo/GitHub](http://github.com)
+- Developed a dynamic stock trading website allowing users to trade with virtual capital and real-time stock data access
+- Enhanced user interface with interactive graphs and real-time updates, resulting in improved user engagement 
+
+**Contact Page Design** (*HTML, CSS, Font Awesome, JavaScript*) — [Link to Demo/GitHub](http://github.com)     
+- Designed and implemented a responsive contact page with interactive FAQ and portfolio areas
+- Utilized Font Awesome for visually appealing icons and JavaScript for dynamic content loading
+[City, State] — *[Start Date] – Present*
+- Spearheaded the development of an interactive stock trading platform with real-time data
+- Achieved a 30% increase in platform user base through performance enhancements
+
+## Certifications
+- **Certified Web Developer** — [Certification Organization], *2021*
+
+## Awards
+- **Best Web Innovation** — [Awarding Organization], *2022*

@@ -1,0 +1,21 @@
+[
+    {
+        "Job Name": "Intern - Software Engineer (SPRING) - Remote",
+        "Job Description": "Intern - Software Engineers are responsible for analyzing, designing, programming, debugging, and modifying software for existing or new products/applications...",
+        "Job Link": "https://www.linkedin.com/jobs/view/4053453204",
+        "Posting Time": "Fri, 08 Nov 2024 05:49:34 +0000"
+    },
+    {
+        "Job Name": "Intern - Software Engineer (SPRING) - Conway, AR",
+        "Job Description": "Intern - Software Engineers are responsible for analyzing, designing, programming, debugging, and modifying software for existing or new products/applications...",
+        "Job Link": "https://www.linkedin.com/jobs/view/4053648783",
+        "Posting Time": "Fri, 08 Nov 2024 05:48:16 +0000"
+    },
+    {
+        "Job Name": "Software Engineer Intern, Front-End",
+        "Job Description": "Institutional Fabric for the Digital Asset MarketFounded in 2018, Talos provides institutional-grade trading technology for the global digital asset market...",
+        "Job Link": "https://www.linkedin.com/jobs/view/4068524739",
+        "Posting Time": "Fri, 08 Nov 2024 18:05:59 +0000"
+    }
+]
+
